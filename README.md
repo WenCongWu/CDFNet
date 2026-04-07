@@ -15,9 +15,9 @@ Download these datasets and create a dataset folder to hold them.
 
 ### 3. Pretrained weights
 Download our CDFNet weights and create a weights folder to hold them.
-1) FLIR dataset: [CDFNet_FLIR.pt](https://drive.google.com/file/d/1pIr9cFdbXpeLAhanBMoLqN48tWtdUjmK/view?usp=drive_link)
-2) LLVIP dataset: [CDFNet_LLVIP.pt](https://drive.google.com/file/d/1NuHgIarBmKYPACKKTY5F7AuhZsp08m5B/view?usp=drive_link)
-3) M3FD dataset: [CDFNet_M3FD.pt](https://drive.google.com/file/d/1Z90zNNTDbBosfVDLqqlrJY3YQvUS-Qu2/view?usp=drive_link)
+1) FLIR dataset: [CDFNet_FLIR.pt](https://drive.google.com/file/d/1b0Bzo3k9kh_Bd5jMsDOCUhpYnU-eiQzj/view?usp=drive_link), [CDFNet-s_FLIR.pt](https://drive.google.com/file/d/135MCsvTspEsFx9FWlphjdWUu9x_CbR5L/view?usp=drive_link)
+2) LLVIP dataset: [CDFNet_LLVIP.pt](https://drive.google.com/file/d/1GX4fd5MML73t8SknVjB0FOw9afwvDN5b/view?usp=drive_link), [CDFNet-s_LLVIP.pt](https://drive.google.com/file/d/13fBWugKyWNotUG2JBm7bkrqHilKNt3V5/view?usp=drive_link)
+3) M3FD dataset: [CDFNet_M3FD.pt](https://drive.google.com/file/d/1vDZKli96vcD3qVcjMjB5U-7iQKqLNY5N/view?usp=drive_link), [CDFNet-s_M3FD.pt](https://drive.google.com/file/d/1Rp8DfUsl7lCOHNsYupjl_coim5TDTiuQ/view?usp=drive_link)
 
 ### 4. Training our CDFNet
 Dataset path, GPU, batch size, etc., need to be modified according to different situations.
