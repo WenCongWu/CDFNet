@@ -1,5 +1,5 @@
 # CDFNet: Cross-Dimension Fusion Network with Dual Feature Enhancement for Multimodal Object Detection
-This is an official PyTorch implementation for our CDFNet. Our paper has been accepted by **Expert Systems With Applications**. The paper will be published soon.
+This is an official PyTorch implementation for our CDFNet. Our paper has been accepted by **Expert Systems With Applications** in 2026. The paper will be published soon.
 
 ### 1. Dependences
  Create a conda virtual environment and activate it.
