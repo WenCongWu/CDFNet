@@ -38,7 +38,7 @@ If you find CDFNet helpful for your research, please consider citing our work.
   title={CDFNet: Cross-Dimension Fusion Network with Dual Feature Enhancement for Multimodal Object Detection}, 
   author={Wencong Wu and Xiuwei Zhang and Hanlin Yin and Haorui Zeng and Chenxu Wei and Lei Yu and Yanning Zhang},
   journal={Expert Systems With Applications},
-  pages = {132380},
+  pages={132380},
   year={2026}
 }
 ```
